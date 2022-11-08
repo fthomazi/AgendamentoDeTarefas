@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Context",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Context\\OrganizadorContext.cs",
+  "PreviewInSolutionExplorer": false
+}
