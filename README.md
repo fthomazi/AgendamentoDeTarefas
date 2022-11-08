@@ -58,4 +58,5 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 ### Conclusão 
 
-Codigo finalizado. Foram alterados alguns EndPoints afim de finalizar a tarefa. Também foi necessario alterar a rota de comunicação com o banco de dados SQL SERVER(local) e criar a migration.  
+<<<<<<< HEAD
+Código finalizado. Foram alterados alguns EndPoints afim de finalizar a tarefa. Também foi necessário alterar a rota de comunicação com o banco de dados SQL SERVER(local) e criar a migration.  
